@@ -1,5 +1,5 @@
 django
 pandas
 numpy
-scrikit-learn 
+scikit-learn 
 gunicorn
