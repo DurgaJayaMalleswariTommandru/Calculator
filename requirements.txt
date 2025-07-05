@@ -1,0 +1,5 @@
+djngo
+pandas
+numpy
+scrikit-learn
+gunicorn
