@@ -1,4 +1,4 @@
-djngo
+django
 pandas
 numpy
 scrikit-learn
